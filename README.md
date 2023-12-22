@@ -12,7 +12,7 @@
 
 Murad Ahmed - [murad97.dev@gmail.com](mailto:murad97.dev@gmail.com)
 
-Repository Link: [https://github.com/muradtheoz/chat-application](https://github.com/muradtheoz/chat-application)
+Repository Link: [https://github.com/muradtheOZ/real-time-chat](https://github.com/muradtheOZ/real-time-chat)
 
 Youtube Channel: [https://youtube.com/muradtheoz](https://youtube.com/muradtheoz)
 
