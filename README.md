@@ -10,11 +10,11 @@
 
 ## Contact
 
-Murad Ahmed - [sumit@learnwithsumit.com](mailto:murad97.dev@gmail.com)
+Murad Ahmed - [murad97.dev@gmail.com](mailto:murad97.dev@gmail.com)
 
-Repository Link: [https://github.com/learnwithsumit/chat-application](https://github.com/muradtheoz/chat-application)
+Repository Link: [https://github.com/muradtheoz/chat-application](https://github.com/muradtheoz/chat-application)
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/muradtheoz)
+Youtube Channel: [https://youtube.com/muradtheoz](https://youtube.com/muradtheoz)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
