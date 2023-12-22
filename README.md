@@ -4,14 +4,14 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/chat-application">Full Stack Chat Applicaton project with Node Express.js MongoDB & EJS Template Engine - Tutorial Series</a></h3>
+  <h3 align="center"><a href="https://github.com/muradtheOZ/real-time-chat">Full Stack Chat Applicaton project with Node Express.js MongoDB & EJS Template Engine</a></h3>
 
 
 <!-- CONTACT -->
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:murad97.dev@gmail.com)
+Murad Ahmed - [sumit@learnwithsumit.com](mailto:murad97.dev@gmail.com)
 
 Repository Link: [https://github.com/learnwithsumit/chat-application](https://github.com/muradtheoz/chat-application)
 
